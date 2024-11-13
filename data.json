@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Sadhguru",
+    "image": "https://imgur.com/fVeX2Bp.jpeg",
+    "dob": "September 3, 1957",
+    "pob": "Mysore"
+  },
+  {
+    "id": 2,
+    "name": "Osho",
+    "image": "https://imgur.com/r0OHVMg.jpeg",
+    "dob": "11 December 1931",
+    "pob": "kuchwada"
+  },
+  {
+    "id": 3,
+    "name": "Jiddu Krishnamurti",
+    "image": "https://imgur.com/EvCX8Fl.jpeg",
+    "dob": "11 May 1895",
+    "pob": "Madanapalle"
+  },
+  {
+    "id": 4,
+    "name": "Premananda Maharaj",
+    "image": "https://imgur.com/RFjba8o.jpeg",
+    "dob": "1972",
+    "pob": "Sarsaul"
+  },
+  {
+    "id": 5,
+    "name": "Anandamayi Ma",
+    "image": "https://imgur.com/Ou4JyXm.jpeg",
+    "dob": "30 April 1896",
+    "pob": "Kheora"
+  },
+  {
+    "id": 6,
+    "name": "Sri Sri Ravi Shankar",
+    "image": "https://imgur.com/WOdT39T.jpeg",
+    "dob": "13 May 1956",
+    "pob": "Papanasam"
+  },
+  {
+    "id": 7,
+    "name": "Baba Ramdev",
+    "image": "https://imgur.com/dYwEnGY.jpeg",
+    "dob": "25 December 1965",
+    "pob": "Mahendragarh"
+  },
+  {
+    "id": 8,
+    "name": "Sri M",
+    "image": "https://imgur.com/8t4zu8H.jpeg",
+    "dob": "6 November 1948",
+    "pob": "Thiruvananthapuram"
+  },
+  {
+    "id": 9,
+    "name": "Swami Vivekananda",
+    "image": "https://imgur.com/uAnSNFW.jpeg",
+    "dob": "12 January 1863",
+    "pob": "Calcutta"
+  },
+  {
+    "id": 10,
+    "name": "Neeb Karoli Baba",
+    "image": "https://imgur.com/GOYPbHT.jpeg",
+    "dob": "12 January 1863",
+    "pob": "Firozabad"
+  },
+  {
+    "id": 11,
+    "name": "Paramhansa Yogananda",
+    "image": "https://i.imgur.com/jWq50nS.jpg",
+    "dob": "5 January 1893",
+    "pob": "Gorakhpur"
+  },
+  {
+    "id": 12,
+    "name": "Ramakrishna Paramhansa",
+    "image": "https://imgur.com/Ci1HCj8.jpeg",
+    "dob": "18 February 1836",
+    "pob": "Hooghly"
+  },
+  {
+    "id": 13,
+    "name": "Sadguru Sri Brahma",
+    "image": "https://imgur.com/kpQyK5D.jpeg",
+    "dob": "1876",
+    "pob": "Kaliappan"
+  },
+  {
+    "id": 14,
+    "name": "Lahiri Mahasaya",
+    "image": "https://imgur.com/mMbBvQG.jpeg",
+    "dob": "30 Sep 1828",
+    "pob": "Ghurni"
+  },
+  {
+    "id": 15,
+    "name": "Ramana Maharshi",
+    "image": "https://imgur.com/6z5e3gD.jpeg",
+    "dob": "30 Dec 1879",
+    "pob": "Tiruchuli"
+  }
+]
