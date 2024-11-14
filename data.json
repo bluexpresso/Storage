@@ -4,12 +4,14 @@
     "name": "Sadhguru",
     "image": "https://imgur.com/fVeX2Bp.jpeg",
     "dob": "September 3, 1957",
+    "description": "Sadhguru is an Indian guru and founder of the Isha Foundation, based in Coimbatore, India. The foundation, established in 1992, operates an ashram and yoga centre that carries out educational and spiritual activities. Sadhguru has been teaching yoga since 1982",
     "pob": "Mysore"
   },
   {
     "id": 2,
     "name": "Osho",
     "image": "https://imgur.com/r0OHVMg.jpeg",
+    "description": "Never Born - Never Died - Only visited this planet Earth between December 11, 1931 and January 19, 1990. With these literally immortal words, Osho both dictates his epitaph and dispenses with his biography. Having previously removed his name from everything, he finally agrees to accept Osho, explaining that the word is derived from William James oceanic. He initially said, It is not my name, it is a healing sound.Later he also gave Osho a meaning, adding, Oceanic describes the experience, but what about the experiencer?  For that we use the word Osho.His thousands of hours of extemporaneous talks, spoken to people around the world over a twenty-year period, are all recorded, often on video - that can be listened to anywhere by anyone, when, Osho says, that same silence will be there.",
     "dob": "11 December 1931",
     "pob": "kuchwada"
   },
@@ -17,6 +19,7 @@
     "id": 3,
     "name": "Jiddu Krishnamurti",
     "image": "https://imgur.com/EvCX8Fl.jpeg",
+    "description": "Jiddu Krishnamurti was an Indian philosopher, mystic, speaker, writer, and spiritual figure. Adopted by members of the Theosophical tradition as a child, he was raised to fill the advanced role of World Teacher, but in adulthood he rejected this mantle and distanced himself from the related religious movement. He spent the rest of his life speaking to groups and individuals around the world; many of these talks have been published. He also wrote many books, among them The First and Last Freedom (1954) and Commentaries on Living (1956–60). His last public talk was in January 1986, a month before his death at his home in Ojai, California.",
     "dob": "11 May 1895",
     "pob": "Madanapalle"
   },
@@ -24,6 +27,7 @@
     "id": 4,
     "name": "Premananda Maharaj",
     "image": "https://imgur.com/RFjba8o.jpeg",
+    "description": "Premanand Govind Sharan (born Aniruddh Kumar Pandey, 1972), known to his followers as Premanand, is an Indian Hindu guru. He belongs to the Radhavallabh Sect. Early yearsPremanand was born in 1972 in the Akhri village, Sarsaul Block, near Kanpur to Rama Devi and Shambhu Pandey. At the age of 13 he left his ancestral home and took sannyasa.",
     "dob": "1972",
     "pob": "Sarsaul"
   },
@@ -31,6 +35,7 @@
     "id": 5,
     "name": "Anandamayi Ma",
     "image": "https://imgur.com/Ou4JyXm.jpeg",
+    "description": "Anandamayi Ma was an Indian saint, teacher, and mystic. She was revered as an incarnation of Hindu goddess Durga. She was described by Sivananda Saraswati as la fleur la plus parfaite que le sol de lInde ait produite [the most perfect flower the Indian soil has produced]",
     "dob": "30 April 1896",
     "pob": "Kheora"
   },
@@ -38,6 +43,7 @@
     "id": 6,
     "name": "Sri Sri Ravi Shankar",
     "image": "https://imgur.com/WOdT39T.jpeg",
+    "description": "Ravi Shankar is an Indian guru and spiritual leader. He is also referred to as Sri Sri or Gurudev. From around the mid 1970s, he worked as an apprentice under Maharishi Mahesh Yogi, the founder of Transcendental Meditation. In 1981, he founded the Art of Living foundation.",
     "dob": "13 May 1956",
     "pob": "Papanasam"
   },
@@ -45,6 +51,7 @@
     "id": 7,
     "name": "Baba Ramdev",
     "image": "https://imgur.com/dYwEnGY.jpeg",
+    "description": "Swami Ramdev, a spiritual and renowned Yog Guru, well acclaimed for outspreading Yoga and Ayurveda globally.",
     "dob": "25 December 1965",
     "pob": "Mahendragarh"
   },
@@ -52,6 +59,7 @@
     "id": 8,
     "name": "Sri M",
     "image": "https://imgur.com/8t4zu8H.jpeg",
+    "description": "Sri M, also known as Sri Madhukar Nath, is an Indian yogi, spiritual guide, orator, and educationist. He is an initiate of the Nath tradition of Hinduism and is the disciple of Sri Maheshwarnath Babaji, who was a disciple of Sri Guru Babaji. Sri M lives in Madanapalle, Andhra Pradesh, India.",
     "dob": "6 November 1948",
     "pob": "Thiruvananthapuram"
   },
@@ -59,6 +67,7 @@
     "id": 9,
     "name": "Swami Vivekananda",
     "image": "https://imgur.com/uAnSNFW.jpeg",
+    "description": "Swami Vivekananda, born Narendranath Datta was an Indian Hindu monk, philosopher, author, religious teacher, and the chief disciple of the Indian mystic Ramakrishna. He was a key figure in the introduction of Vedanta and Yoga to the Western world",
     "dob": "12 January 1863",
     "pob": "Calcutta"
   },
@@ -66,6 +75,7 @@
     "id": 10,
     "name": "Neeb Karoli Baba",
     "image": "https://imgur.com/GOYPbHT.jpeg",
+    "description": "Neem Karoli Baba or Neeb Karori Baba, also known to his followers as Maharaj-ji, was a Hindu guru and a devotee of the Hindu deity Hanuman. He is known outside India for being the spiritual master of a number of Americans who travelled to India in the 1960s and 1970s",
     "dob": "12 January 1863",
     "pob": "Firozabad"
   },
@@ -73,6 +83,7 @@
     "id": 11,
     "name": "Paramhansa Yogananda",
     "image": "https://i.imgur.com/jWq50nS.jpg",
+    "description": "Paramahansa Yogananda was an Indian-American Hindu monk, yogi and guru who introduced millions to meditation and Kriya Yoga through his organization, Self-Realization Fellowship / Yogoda Satsanga Society of India – the only one he created to disseminate his teachings",
     "dob": "5 January 1893",
     "pob": "Gorakhpur"
   },
@@ -80,6 +91,7 @@
     "id": 12,
     "name": "Ramakrishna Paramhansa",
     "image": "https://imgur.com/Ci1HCj8.jpeg",
+    "description": "Ramakrishna, also called Ramakrishna Paramahansa, born Ramakrishna Chattopadhay, was an Indian Hindu mystic. He was a devotee of the goddess Kali. He advocated the essential unity of religions and proclaimed that world religions are so many paths to reach one and the same goal. His parable-based teachings espoused the ultimate unity of diverse religions as being means to enable the realization of the same God. He is regarded by his followers as an avatar (divine incarnation)",
     "dob": "18 February 1836",
     "pob": "Hooghly"
   },
@@ -87,6 +99,7 @@
     "id": 13,
     "name": "Sadguru Sri Brahma",
     "image": "https://imgur.com/kpQyK5D.jpeg",
+    "description": "In 1876, Sadhguru SriBrahma was born as Kaliappan in Naduvapatty, Ramnad District, into a poor agricultural family. History and Tradition of 145 Years. He was a rare being who left his body through all the seven chakras.",
     "dob": "1876",
     "pob": "Kaliappan"
   },
@@ -94,6 +107,7 @@
     "id": 14,
     "name": "Lahiri Mahasaya",
     "image": "https://imgur.com/mMbBvQG.jpeg",
+    "description": "Shyama Charan Lahiri (30 September 1828 – 26 September 1895), best known as Lahiri Mahasaya, was an Indian yogi and guru who founded the Kriya Yoga school. He was a disciple of Mahavatar Babaji.[1] According to the book Americas Alternative Religions by Timothy Miller, Lahiri Mahasayas life was described in Paramahansa Yoganandas Autobiography of a Yogi as a demonstration of the spiritual attainment that could be achieved by a householder living fully in the world. A part of Lahiri Mahasayas face is pictured on the cover of The Beatles 1967 album Sgt. Peppers Lonely Hearts Club Band.",
     "dob": "30 Sep 1828",
     "pob": "Ghurni"
   },
@@ -101,6 +115,7 @@
     "id": 15,
     "name": "Ramana Maharshi",
     "image": "https://imgur.com/6z5e3gD.jpeg",
+    "description": "Ramana Maharshi was an Indian Hindu sage and jivanmukta. He was born Venkataraman Iyer, but is mostly known by the name Bhagavan Sri Ramana Maharshi. He was born in Tiruchuli, Tamil Nadu, India in 1879",
     "dob": "30 Dec 1879",
     "pob": "Tiruchuli"
   }
